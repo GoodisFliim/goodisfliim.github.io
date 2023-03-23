@@ -3,7 +3,8 @@
     height: 70vh;
     position: relative;
     display: flex;
-    justify-content: right;
+    justify-content: center;
+    
 }
 
 .bgvideo video {
