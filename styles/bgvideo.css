@@ -18,7 +18,7 @@
 .videotext {
      color: rgb(73, 237, 182);
     z-index: 2; font-size: 40px;
-margin-top: 150px; margin-right: 120px;
+ justify-content: center;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
 
 .eff { width: 100%;
